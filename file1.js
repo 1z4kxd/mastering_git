@@ -5,5 +5,3 @@ function myFunc() {
   console.log(a + b);
 }
 myFunc();
-
-console.log("Some bad code :( ");
